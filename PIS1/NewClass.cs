@@ -8,6 +8,9 @@ namespace PIS1
 {
     class NewClass
     {
-        
+        public void DoNothing()
+        {
+
+        }
     }
 }

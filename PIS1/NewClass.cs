@@ -10,7 +10,7 @@ namespace PIS1
     {
         public void DoNothing()
         {
-
+            Console.WriteLine("Vukorepa Ivan najbolji je on!");
         }
         // ovo je konfliktna promjena
     }

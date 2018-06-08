@@ -8,6 +8,6 @@ namespace PIS1
 {
     class NewClass
     {
-        
+        // ovo je konfliktna promjena
     }
 }
